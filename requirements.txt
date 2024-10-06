@@ -1,0 +1,12 @@
+gradio
+torch
+torchvision
+transformers==4.37.2
+megfile==3.1.2
+tiktoken==0.6.0
+verovio==4.3.1
+opencv-python
+accelerate==0.28.0
+numpy==1.26.4
+shutils
+Pillow
